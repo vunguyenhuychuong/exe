@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2b33424.css",
+    "main.js": "/static/js/main.c67a9db1.js",
+    "static/media/bg_profile.png": "/static/media/bg_profile.0ee6f3c13e57a284d7c7.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/HeaderPage.png": "/static/media/HeaderPage.0634a9e6315508127f74.png",
+    "static/media/momo.jpg": "/static/media/momo.ed7a170208207f7c159c.jpg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/img1.jpg": "/static/media/img1.0584f45fe0c2425e22cd.jpg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/masterCard.jpg": "/static/media/masterCard.41f775351e4110530ebc.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/avt_company.jpg": "/static/media/avt_company.52a2095b67b290e46312.jpg",
+    "static/media/vietnam.png": "/static/media/vietnam.a7a251f3ce4a10a7fd18.png",
+    "static/media/team-2.jpg": "/static/media/team-2.e725aef8c892cb21f262.jpg",
+    "static/media/xemaydien.jpg": "/static/media/xemaydien.83f67697d2b2621ad83b.jpg",
+    "static/media/momoIcon.png": "/static/media/momoIcon.5eb38c94d67395d5a41c.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/index.html",
+    "main.c2b33424.css.map": "/static/css/main.c2b33424.css.map",
+    "main.c67a9db1.js.map": "/static/js/main.c67a9db1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b33424.css",
+    "static/js/main.c67a9db1.js"
+  ]
+}
